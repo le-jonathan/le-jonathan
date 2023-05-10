@@ -11,9 +11,10 @@ I'm Jonathan Le, a third-year Computer Science major at Georgia Tech, specializi
 
 ## Projects
 
-- **Project 1**: Discord bot built using Python and the discord.py library, used to aid in a popular credit card server (The Credit Community) for server management. (https://github.com/le-jonathan/Credit-Card-Server-Discord-Bot)(#).
-- **PLACEHOLDER**: PLACEHOLDER. PLACEHOLDER(#).
-Feel free to check out my repositories for more projects and contributions(#)!
+- **Project 1**: Discord bot built using Python and the discord.py library, used to aid in a popular credit card server (The Credit Community) for server management. (https://github.com/le-jonathan/Credit-Card-Server-Discord-Bot).
+- **PLACEHOLDER**: PLACEHOLDER. PLACEHOLDER.
+
+Feel free to check out my repositories for more projects and contributions!
 
 ## Skills
 
