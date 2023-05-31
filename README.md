@@ -18,6 +18,7 @@ Feel free to check out my repositories for more projects and contributions!
 ## Skills
 
 - **Programming Languages**: Python, Java, C++.
+- **Frameworks**: React Native
 
 ## Contact
 
