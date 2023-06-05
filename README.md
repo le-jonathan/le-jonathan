@@ -5,7 +5,7 @@ I'm Jonathan Le, a second-year Computer Science major at Georgia Tech, specializ
 ## About Me
 
 - 🎓 Studying Computer Science with a focus on Information Internetworks and Media at Georgia Tech.
-- 🔭 Interested in software development, networking, and media technologies.
+- 🔭 Interested in software development, app development, and media technologies.
 - 🌱 Currently learning data strctures & algorithms, object & design.
 - 📚 Passionate about continuous learning and expanding my skills in computer science.
 
