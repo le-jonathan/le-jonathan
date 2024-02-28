@@ -23,6 +23,5 @@ Feel free to check out my repositories for more projects and contributions!
 ## Contact
 
 - 📫 Email: Jonathanle20@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jonathanvanle/
 
 Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to connect!
